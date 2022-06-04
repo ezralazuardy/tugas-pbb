@@ -1,6 +1,38 @@
 <resources>
-    <string name="app_name">Tugas PBB</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Porter</string>
+    <string name="team_member_title">Team Member</string>
+    <string name="our_projects_title">Our Projects</string>
+    <string name="to_do_title">To Do</string>
+    <string name="progress_title">Progress</string>
+    <string name="done_title">Done</string>
+    <string name="see_all_button">See All</string>
+
+    <string name="name_member_1">Ezra Lazuardy</string>
+    <string name="role_member_1">Software Engineer • Exclolab</string>
+    <string name="name_member_2">Kakung Bangkit</string>
+    <string name="role_member_2">IT Hardware Engineer • Huawei</string>
+    <string name="name_member_3">Salahudin Al Ayubi</string>
+    <string name="role_member_3">Network Engineer • Cisco</string>
+    <string name="name_member_4">Setyawan Adhi</string>
+    <string name="role_member_4">IT Support • Tokopedia</string>
+    <string name="name_member_5">Alya Adelia</string>
+    <string name="role_member_5">UI / UX Designer • Adobe</string>
+
+    <string name="name_content_todo_1">The Poon Hill</string>
+    <string name="date_content_todo_1">Jun 04, 2022</string>
+    <string name="name_content_todo_2">Flexavi SaaS Frontend Web Development</string>
+    <string name="date_content_todo_2">Mar 16, 2022</string>
+    <string name="name_content_todo_3">E-Wallet Mobile UI/UX Designing</string>
+    <string name="date_content_todo_3">May 12, 2022</string>
+
+    <string name="content_type_1">Graphic Art</string>
+    <string name="content_type_2">Design</string>
+    <string name="content_type_3">Photography</string>
+    <string name="content_type_4">UI / UX</string>
+    <string name="content_type_5">Software Engineering</string>
+
+    <string name="hint_login">Login to your account</string>
+    <string name="input_hint_email">Email address</string>
+    <string name="input_hint_password">Password</string>
+    <string name="button_login">Login</string>
 </resources>
